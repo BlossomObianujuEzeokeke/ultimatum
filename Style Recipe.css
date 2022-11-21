@@ -1,4 +1,12 @@
 div {
+transition: all;
 
-   
+}
+
+div {
+   color: black;
+}
+
+body {
+   margin: 0ch;
 }
