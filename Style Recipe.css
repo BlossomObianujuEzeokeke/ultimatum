@@ -17,4 +17,17 @@ div{
    color: greenyellow;
 }
 
+<<<<<<< HEAD
 >>>>>>> bb42cfa (Added Div on recipe page)
+=======
+div > p {
+color: bisque;
+}
+
+.a{
+   color:black;
+} 
+
+
+
+>>>>>>> 0eac1df (Added lorem ipsum)
