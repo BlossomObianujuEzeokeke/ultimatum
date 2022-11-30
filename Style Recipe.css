@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+=======
+p{
+   margin: 2px;
+   color: #ff0000
+}
+
+span{
+   transition: 2s red;
+   margin: 25px;
+   color: black;
+   box-shadow: #ff0000;
+}
+
+div{
+   flex: auto;
+   color: greenyellow;
+}
+
+>>>>>>> bb42cfa (Added Div on recipe page)
