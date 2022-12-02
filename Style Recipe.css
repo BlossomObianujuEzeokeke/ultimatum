@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-p{
+p {
    margin: 2px;
    color: #ff0000
 }
@@ -9,18 +7,14 @@ span{
    transition: 2s red;
    margin: 25px;
    color: black;
-   box-shadow: #ff0000;
+   box-shadow: red
 }
 
-<<<<<<< HEAD
 div{
    flex: auto;
    color: greenyellow;
 }
 
-<<<<<<< HEAD
->>>>>>> bb42cfa (Added Div on recipe page)
-=======
 div > p {
 color: bisque;
 }
@@ -31,8 +25,3 @@ color: bisque;
 
 
 
->>>>>>> 0eac1df (Added lorem ipsum)
-=======
-
->>>>>>> 03937da (Changd the Span txt)
->>>>>>> 80e6ed0 (Changed the Span text)
