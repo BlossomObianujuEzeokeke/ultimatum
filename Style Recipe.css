@@ -1,0 +1,30 @@
+p {
+   margin: 2px;
+   color: #ff0000
+}
+
+span{
+   transition: 2s red;
+   margin: 25px;
+   color: black;
+   box-shadow: red
+}
+
+div{
+   flex: auto;
+   color: greenyellow;
+}
+
+div > p {
+color: bisque;
+}
+
+.a{
+   color:black;
+} 
+
+div {
+   
+}
+
+
