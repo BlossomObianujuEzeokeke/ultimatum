@@ -1,7 +1,4 @@
-p {
-   margin: 2px;
-   color: #ff0000
-}
+
 
 span{
    transition: 2s red;
@@ -18,13 +15,14 @@ div{
 div > p {
 color: bisque;
 }
-
-.a{
-   color:black;
-} 
-
-div {
-   
+div 
+{
+   transition-delay: ;
+}
+span{
+   color: red;
 }
 
-
+div p{
+   
+}
